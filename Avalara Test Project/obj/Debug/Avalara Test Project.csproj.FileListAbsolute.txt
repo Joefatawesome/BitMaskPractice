@@ -1,0 +1,13 @@
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\bin\Debug\Avalara Test Project.exe.config
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\bin\Debug\Avalara Test Project.exe
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\bin\Debug\Avalara Test Project.pdb
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\bin\Debug\Avalara.AvaTax.RestClient.net45.dll
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\bin\Debug\Newtonsoft.Json.dll
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\bin\Debug\Avalara.AvaTax.RestClient.net45.pdb
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\bin\Debug\Avalara.AvaTax.RestClient.net45.xml
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\bin\Debug\Newtonsoft.Json.xml
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\obj\Debug\Avalara Test Project.csprojResolveAssemblyReference.cache
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\obj\Debug\Avalara Test Project.csproj.CoreCompileInputs.cache
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\obj\Debug\Avalara Test Project.csproj.CopyComplete
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\obj\Debug\Avalara Test Project.exe
+F:\Documents\Comp Sci\C#\Avalara Test Project\Avalara Test Project\obj\Debug\Avalara Test Project.pdb
